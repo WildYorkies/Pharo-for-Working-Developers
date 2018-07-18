@@ -1,4 +1,4 @@
-# Pharo-for-Working-Developers
+# Pharo for Working Developers
 
 [![Ghostbusters Private Sector Quote](https://img.youtube.com/vi/4394VCS7POE/0.jpg)](https://www.youtube.com/watch?v=4394VCS7POE)
 
